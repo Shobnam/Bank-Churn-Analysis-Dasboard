@@ -78,5 +78,11 @@ The analysis highlights **key churn drivers** and identifies **high-value at-ris
 This enables the bank to design **targeted retention campaigns**, improve customer satisfaction, and reduce revenue leakage.  
 
 ---
+<img width="1312" height="746" alt="image" src="https://github.com/user-attachments/assets/57495a7e-65d7-4498-abd5-18ff119d37c6" />
+<img width="1305" height="736" alt="image" src="https://github.com/user-attachments/assets/8ccce610-1eda-4795-af2d-40634377071a" />
+<img width="1316" height="731" alt="image" src="https://github.com/user-attachments/assets/39c5ffe7-a113-4c4d-86d5-b2b25e6760f4" />
+<img width="1341" height="751" alt="image" src="https://github.com/user-attachments/assets/ac92746c-67ea-432c-82d4-d6a25c0d2a98" />
 
-## 📂 Repository Structure
+
+
+
